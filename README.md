@@ -10,3 +10,17 @@
 Username: admin
 Password: codeastro.com
 
+--------------------------------------------
+
+**Customer Login Details**
+
+Username: harry (any customer username)
+Password: codeastro
+
+--------------------------------------------
+
+**Staff Login Details**
+
+Username: bruno (any staff username)
+Password: codeastro
+
